@@ -6,4 +6,4 @@
 4.</b> Unzip the file at any place on your pc.<br/>
 5.</b> Now go to "<i><b>Manage Extensions</b></i>" of chrome and select "<i><b>Load Unpacked</b></i>" at top left corner of the page.<br/>
 6.</b> Now navigate to the zipped file and select it.<br/>
-7.</b> Switch on the extension and volla !! It's done.<br/>
+7.</b> Switch on the extension and volla !! It's done..<br/>
