@@ -106,7 +106,7 @@ Start both servers
 #### Local Url for Server:
 
 - Frontend is running on http://localhost:3000 
-- Backend is running on http://localhost:5000 
+- Backend is running on http://localhost:8000 
 
 
 
